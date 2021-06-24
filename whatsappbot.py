@@ -11,7 +11,6 @@ from datetime import date
 from datetime import datetime  # lib do calendario
 import pandas as pd  # lib pandas com o apelido carinhoso de pd, haha já sou intima
 import mensagemParabens as msgP  # meu script
-import mensagemVencidos as msgV  # meu outro script
 import mensagemAulasExperimentais as msgA
 import mensagemPersonalizada as msgPerson
 from PySimpleGUI import PySimpleGUI as sg #interface
@@ -56,32 +55,6 @@ def lendoAniversariantes(plan, quantidade, data_hoje):
                 texto_niver = True
             mensagem = msgP.InserindoNome(texto_niver, nome_aniversariante)
             contato = int(numero_aniversariante)
-            buscar_contato(contato)
-            enviar_mensagem(mensagem)
-
-        linhas = linhas+1
-
-def lendoVencidos(plan, quantidade, data_hoje):
-
-    linhas = 0  # contadora
-
-    while (linhas <= quantidade):
-
-        data_vencimento = plan["Vencimento"][linhas]
-        dia_vencimento = data_vencimento.strftime('%d')
-        dia_hoje = data_hoje.strftime('%d')
-
-        if dia_vencimento == dia_hoje:
-            data_vencimento = data_hoje.strftime('%d/%m') 
-            numero = plan["Numero"][linhas]
-            nomeAdulto = plan["NomeAdulto"][linhas]
-            servico = plan["Servico"][linhas]
-            if servico == 'Natação':
-                nomeCrianca = plan["NomeCrianca"][linhas]
-            else: 
-                nomeCrianca = None
-            mensagem = msgV.InserindoNome(nomeAdulto, nomeCrianca, data_vencimento, servico)
-            contato = (int(numero))
             buscar_contato(contato)
             enviar_mensagem(mensagem)
 
@@ -183,7 +156,7 @@ dir_path = os.getcwd()
 profile = os.path.join(dir_path, "profile", "usuario")
 options.add_argument(r"user-data-dir={}".format(profile))
 
-driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+driver= webdriver.Chrome(ChromeDriverManager().install(), options=options)
 driver.get('https://web.whatsapp.com/')
 os.system('pause')
 #######################################################################################################
