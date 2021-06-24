@@ -184,5 +184,3 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
             driver.close()
             print("\nEncerrando Sistema ...")
-#teste
-#testedoteste
