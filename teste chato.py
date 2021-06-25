@@ -52,16 +52,38 @@
 # print(data2)
 # diferenca = ((data2 - data1).days)
 # print (diferenca)
-import PySimpleGUI as sg      
+import PySimpleGUI as sg
+from PySimpleGUI.PySimpleGUI import popup_yes_no      
 
-layout = [[sg.Text('My one-shot window.')],      
-                 [sg.InputText()],      
-                 [sg.Submit(), sg.Cancel()]]      
+# layout = [[sg.Text('My one-shot window.')],      
+#                  [sg.InputText()],
+#                  [sg.InputOptionMenu(('Menu Option 1', 'Menu Option 2', 'Menu Option 3'))],    
+#                  [sg.Submit(), sg.Cancel()]]      
 
-window = sg.Window('Window Title', layout)    
+# window = sg.Window('Window Title', layout)    
 
-event, values = window.read()    
-window.close()
+# event, values = window.read()    
+# window.close()
 
-text_input = values[0]    
-sg.popup('You entered', text_input)
+# text_input = values[0]    
+# sg.popup('You entered', text_input)
+
+#event, values = sg.Window('Get filename example', [sg.popup_yes_no]).read(close=True)
+#sg.Window([sg.popup_yes_no (bu)] ).read
+# sg.popup('popup')  # Shows OK button
+# sg.popup_ok('popup_ok')  # Shows OK button
+# sg.popup_yes_no('popup_yes_no')  # Shows Yes and No buttons
+# sg.popup_cancel('popup_cancel')  # Shows Cancelled button
+# sg.popup_ok_cancel('popup_ok_cancel')  # Shows OK and Cancel buttons
+# sg.popup_error('popup_error')  # Shows red error button
+# sg.popup_timed('popup_timed')  # Automatically closes
+# sg.popup_auto_close('popup_auto_close')  #
+
+values = sg.popup_yes_no('Fazer outra operação?')  # Shows Yes and No buttons
+print (values)
+if values == 'Yes':
+    print ("foi")
+elif values == True:
+    print ("...")
+else:
+    print ('tenta outra')

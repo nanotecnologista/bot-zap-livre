@@ -1,0 +1,205 @@
+profile/usuario/chrome_shutdown_ms.txt
+profile/usuario/CrashpadMetrics-active.pma
+profile/usuario/DevToolsActivePort
+profile/usuario/First Run
+profile/usuario/Last Browser
+profile/usuario/Last Version
+profile/usuario/Local State
+profile/usuario/BrowserMetrics/BrowserMetrics-60D4ADA6-24D4.pma
+profile/usuario/Crashpad/metadata
+profile/usuario/Crashpad/settings.dat
+profile/usuario/Default/Cookies
+profile/usuario/Default/Cookies-journal
+profile/usuario/Default/Favicons
+profile/usuario/Default/Favicons-journal
+profile/usuario/Default/heavy_ad_intervention_opt_out.db
+profile/usuario/Default/heavy_ad_intervention_opt_out.db-journal
+profile/usuario/Default/History
+profile/usuario/Default/History Provider Cache
+profile/usuario/Default/History-journal
+profile/usuario/Default/Login Data
+profile/usuario/Default/Login Data-journal
+profile/usuario/Default/Media History
+profile/usuario/Default/Media History-journal
+profile/usuario/Default/Network Action Predictor
+profile/usuario/Default/Network Action Predictor-journal
+profile/usuario/Default/Network Persistent State
+profile/usuario/Default/Preferences
+profile/usuario/Default/PreferredApps
+profile/usuario/Default/QuotaManager
+profile/usuario/Default/QuotaManager-journal
+profile/usuario/Default/Reporting and NEL
+profile/usuario/Default/Reporting and NEL-journal
+profile/usuario/Default/Secure Preferences
+profile/usuario/Default/Shortcuts
+profile/usuario/Default/Shortcuts-journal
+profile/usuario/Default/Top Sites
+profile/usuario/Default/Top Sites-journal
+profile/usuario/Default/TransportSecurity
+profile/usuario/Default/Visited Links
+profile/usuario/Default/Web Data
+profile/usuario/Default/Web Data-journal
+profile/usuario/Default/AutofillStrikeDatabase/LOCK
+profile/usuario/Default/AutofillStrikeDatabase/LOG
+profile/usuario/Default/AutofillStrikeDatabase/LOG.old
+profile/usuario/Default/BudgetDatabase/LOCK
+profile/usuario/Default/BudgetDatabase/LOG
+profile/usuario/Default/BudgetDatabase/LOG.old
+profile/usuario/Default/Cache/data_0
+profile/usuario/Default/Cache/data_1
+profile/usuario/Default/Cache/data_2
+profile/usuario/Default/Cache/data_3
+profile/usuario/Default/Cache/f_00000a
+profile/usuario/Default/Cache/f_00000f
+profile/usuario/Default/Cache/f_000002
+profile/usuario/Default/Cache/f_000008
+profile/usuario/Default/Cache/f_000011
+profile/usuario/Default/Cache/f_000012
+profile/usuario/Default/Cache/f_000013
+profile/usuario/Default/Cache/f_000014
+profile/usuario/Default/Cache/f_000015
+profile/usuario/Default/Cache/f_000016
+profile/usuario/Default/Cache/f_000017
+profile/usuario/Default/Cache/f_000018
+profile/usuario/Default/Cache/f_000019
+profile/usuario/Default/Cache/index
+profile/usuario/Default/Code Cache/js/6f479e9b5d5ff875_0
+profile/usuario/Default/Code Cache/js/2210d4ce64dc1e20_0
+profile/usuario/Default/Code Cache/js/aaec620794bce0ed_0
+profile/usuario/Default/Code Cache/js/index
+profile/usuario/Default/Code Cache/js/index-dir/the-real-index
+profile/usuario/Default/Code Cache/wasm/index
+profile/usuario/Default/Code Cache/wasm/index-dir/the-real-index
+profile/usuario/Default/Extension State/000003.log
+profile/usuario/Default/Extension State/CURRENT
+profile/usuario/Default/Extension State/LOCK
+profile/usuario/Default/Extension State/LOG
+profile/usuario/Default/Extension State/LOG.old
+profile/usuario/Default/Extension State/MANIFEST-000001
+profile/usuario/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+profile/usuario/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+profile/usuario/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old
+profile/usuario/Default/Feature Engagement Tracker/EventDB/LOCK
+profile/usuario/Default/Feature Engagement Tracker/EventDB/LOG
+profile/usuario/Default/Feature Engagement Tracker/EventDB/LOG.old
+profile/usuario/Default/File System/000/t/.usage
+profile/usuario/Default/File System/000/t/Paths/000003.log
+profile/usuario/Default/File System/000/t/Paths/CURRENT
+profile/usuario/Default/File System/000/t/Paths/LOCK
+profile/usuario/Default/File System/000/t/Paths/LOG
+profile/usuario/Default/File System/000/t/Paths/MANIFEST-000001
+profile/usuario/Default/File System/Origins/000003.log
+profile/usuario/Default/File System/Origins/CURRENT
+profile/usuario/Default/File System/Origins/LOCK
+profile/usuario/Default/File System/Origins/LOG
+profile/usuario/Default/File System/Origins/LOG.old
+profile/usuario/Default/File System/Origins/MANIFEST-000001
+profile/usuario/Default/GPUCache/data_0
+profile/usuario/Default/GPUCache/data_1
+profile/usuario/Default/GPUCache/data_2
+profile/usuario/Default/GPUCache/data_3
+profile/usuario/Default/GPUCache/index
+profile/usuario/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000003.log
+profile/usuario/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/CURRENT
+profile/usuario/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOCK
+profile/usuario/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOG
+profile/usuario/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOG.old
+profile/usuario/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+profile/usuario/Default/Local Storage/leveldb/000003.log
+profile/usuario/Default/Local Storage/leveldb/CURRENT
+profile/usuario/Default/Local Storage/leveldb/LOCK
+profile/usuario/Default/Local Storage/leveldb/LOG
+profile/usuario/Default/Local Storage/leveldb/LOG.old
+profile/usuario/Default/Local Storage/leveldb/MANIFEST-000001
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/index.txt
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/1830bb07-8dc4-428e-9538-cc207ca85e94/index
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/1830bb07-8dc4-428e-9538-cc207ca85e94/index-dir/the-real-index
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd3e79f1-4677-4935-826e-dba7126bbb4c/index
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd3e79f1-4677-4935-826e-dba7126bbb4c/index-dir/the-real-index
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/3a8ac1b3c18424ea_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/3a8ac1b3c18424ea_1
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/454bf5e7d42ac1b6_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/2252e8470cc95c14_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/2252e8470cc95c14_1
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/4590c87a1b76a1a4_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/4590c87a1b76a1a4_1
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/8181eaf87279b550_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/8181eaf87279b550_1
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/b5249ccbe31f489f_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/b5249ccbe31f489f_1
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/c79832c42b83fe19_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/c79832c42b83fe19_1
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/d6b88878ec686b1c_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/d76ce8816642c07c_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/d76ce8816642c07c_1
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/f6264cee3a0e67f5_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/f6264cee3a0e67f5_1
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/index
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/e57aba33-9a39-4b94-98f7-3afe957928b2/index-dir/the-real-index
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/ee907a9b-9246-4a36-9fad-0d54e9383405/9a5efb10ad6c2537_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/ee907a9b-9246-4a36-9fad-0d54e9383405/a034088ecd4af689_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/ee907a9b-9246-4a36-9fad-0d54e9383405/c98eb69eb37f739a_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/ee907a9b-9246-4a36-9fad-0d54e9383405/index
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/ee907a9b-9246-4a36-9fad-0d54e9383405/index-dir/the-real-index
+profile/usuario/Default/Service Worker/Database/000003.log
+profile/usuario/Default/Service Worker/Database/CURRENT
+profile/usuario/Default/Service Worker/Database/LOCK
+profile/usuario/Default/Service Worker/Database/LOG
+profile/usuario/Default/Service Worker/Database/LOG.old
+profile/usuario/Default/Service Worker/Database/MANIFEST-000001
+profile/usuario/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_0
+profile/usuario/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_1
+profile/usuario/Default/Service Worker/ScriptCache/index
+profile/usuario/Default/Service Worker/ScriptCache/index-dir/the-real-index
+profile/usuario/Default/Session Storage/000003.log
+profile/usuario/Default/Session Storage/CURRENT
+profile/usuario/Default/Session Storage/LOCK
+profile/usuario/Default/Session Storage/LOG
+profile/usuario/Default/Session Storage/LOG.old
+profile/usuario/Default/Session Storage/MANIFEST-000001
+profile/usuario/Default/Sessions/Session_13268972663692040
+profile/usuario/Default/Sessions/Session_13269024425178761
+profile/usuario/Default/Sessions/Tabs_13268972663848629
+profile/usuario/Default/Sessions/Tabs_13269024427161901
+profile/usuario/Default/Site Characteristics Database/000003.log
+profile/usuario/Default/Site Characteristics Database/CURRENT
+profile/usuario/Default/Site Characteristics Database/LOCK
+profile/usuario/Default/Site Characteristics Database/LOG
+profile/usuario/Default/Site Characteristics Database/LOG.old
+profile/usuario/Default/Site Characteristics Database/MANIFEST-000001
+profile/usuario/Default/Sync Data/LevelDB/000003.log
+profile/usuario/Default/Sync Data/LevelDB/CURRENT
+profile/usuario/Default/Sync Data/LevelDB/LOCK
+profile/usuario/Default/Sync Data/LevelDB/LOG
+profile/usuario/Default/Sync Data/LevelDB/LOG.old
+profile/usuario/Default/Sync Data/LevelDB/MANIFEST-000001
+profile/usuario/Default/data_reduction_proxy_leveldb/000009.log
+profile/usuario/Default/data_reduction_proxy_leveldb/CURRENT
+profile/usuario/Default/data_reduction_proxy_leveldb/LOCK
+profile/usuario/Default/data_reduction_proxy_leveldb/LOG
+profile/usuario/Default/data_reduction_proxy_leveldb/LOG.old
+profile/usuario/Default/data_reduction_proxy_leveldb/MANIFEST-000008
+profile/usuario/Default/databases/Databases.db
+profile/usuario/Default/databases/Databases.db-journal
+profile/usuario/Default/shared_proto_db/000003.log
+profile/usuario/Default/shared_proto_db/CURRENT
+profile/usuario/Default/shared_proto_db/LOCK
+profile/usuario/Default/shared_proto_db/LOG
+profile/usuario/Default/shared_proto_db/LOG.old
+profile/usuario/Default/shared_proto_db/MANIFEST-000001
+profile/usuario/Default/shared_proto_db/metadata/000003.log
+profile/usuario/Default/shared_proto_db/metadata/CURRENT
+profile/usuario/Default/shared_proto_db/metadata/LOCK
+profile/usuario/Default/shared_proto_db/metadata/LOG
+profile/usuario/Default/shared_proto_db/metadata/LOG.old
+profile/usuario/Default/shared_proto_db/metadata/MANIFEST-000001
+profile/usuario/GrShaderCache/GPUCache/data_0
+profile/usuario/GrShaderCache/GPUCache/data_1
+profile/usuario/GrShaderCache/GPUCache/data_2
+profile/usuario/GrShaderCache/GPUCache/data_3
+profile/usuario/GrShaderCache/GPUCache/index
+profile/usuario/ShaderCache/GPUCache/data_0
+profile/usuario/ShaderCache/GPUCache/data_1
+profile/usuario/ShaderCache/GPUCache/data_2
+profile/usuario/ShaderCache/GPUCache/data_3
+profile/usuario/ShaderCache/GPUCache/index

@@ -1,23 +1,21 @@
 # importar as bibliotecas
-from logging import error, exception
-from typing import Optional, Sized
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.remote.webelement import WebElement
+from webdriver_manager import driver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
 from time import sleep  # lib tempo
-from datetime import date
 from datetime import datetime  # lib do calendario
+from PySimpleGUI import PySimpleGUI as sg #interface
 import pandas as pd  # lib pandas com o apelido carinhoso de pd, haha já sou intima
 import mensagemParabens as msgP  # meu script
 import mensagemAulasExperimentais as msgA
 import mensagemPersonalizada as msgPerson
-from PySimpleGUI import PySimpleGUI as sg #interface
 import clipboard
 import os
 
 def buscar_contato(contato):
+    driver = chamandoDriver()
     try:
         campo_pesquisa = driver.find_element_by_xpath('//div[contains(@class,"copyable-text selectable-text")]')
         sleep(1)
@@ -31,6 +29,7 @@ def buscar_contato(contato):
         print('404 error: ', Erro)
 
 def enviar_mensagem(mensagem):
+
     clipboard.copy(mensagem)
     campo_mensagem = driver.find_elements_by_xpath('//div[contains(@class,"copyable-text selectable-text")]')
     campo_mensagem[1].click()
@@ -59,6 +58,7 @@ def lendoAniversariantes(plan, quantidade, data_hoje):
             enviar_mensagem(mensagem)
 
         linhas = linhas+1
+    deNovo()
 
 def lendoAulasExperimentais(plan, quantidade, data_hoje):
 
@@ -81,6 +81,7 @@ def lendoAulasExperimentais(plan, quantidade, data_hoje):
             enviar_mensagem(mensagem)
 
         linhas = linhas+1
+    deNovo()
 
 def mensagemPersonalizada(plan, quantidade):
 
@@ -97,6 +98,7 @@ def mensagemPersonalizada(plan, quantidade):
         enviar_mensagem(mensagem)
 
         linhas = linhas+1
+    deNovo()
 
 def oQueFazer(o_que_fazer): 
     if (o_que_fazer == 1):
@@ -122,7 +124,8 @@ def start():
         #Layout
         sg.theme('Reddit')
         layout =[
-            [sg.Text('Enviar mensagem para:\n [1]Aniversariantes \n [2]Aulas Experimentais\n [3]Mensagem Personalizada\n'), sg.Input(key= 'usuario')],
+            [sg.Text(' Enviar mensagem para:\n [1]Aniversariantes \n [2]Aulas Experimentais\n [3]Mensagem Personalizada\n')],
+            [sg.Input()],
             [sg.Button('Iniciar')]
         ]
 
@@ -130,13 +133,12 @@ def start():
         janela = sg.Window('Disparo Mensagens', layout)
 
         #ler eventos
-        while True:
-            eventos, valor = janela.read()
-            if eventos == sg.WIN_CLOSED:
-                break
-            if eventos == 'Iniciar':
-                o_que_fazer = int(valor['usuario'])
-                oQueFazer(o_que_fazer)
+        eventos, valor = janela.read()
+        if eventos == sg.WIN_CLOSED:
+            janela.close()
+        if eventos == 'Iniciar':
+            o_que_fazer = int(valor[0])
+            janela.close()
 
     except Exception as erro:
         print("\nFavor, digitar o número correspondente a uma das opções\n")
@@ -144,28 +146,31 @@ def start():
     
     oQueFazer(o_que_fazer)
 
+def deNovo():
+    deNovo = sg.popup_yes_no ('Fazer outra operação?')
+    if (deNovo == 'Yes'):
+        start()
+    else:
+        os.system('pause')
+        driver.close()
+
+def chamandoDriver():
+    options = webdriver.ChromeOptions()
+    options.add_argument('ignore-certificate-errors')
+    options.add_experimental_option("excludeSwitches", ["enable-logging"])
+
+    dir_path = os.getcwd()
+    profile = os.path.join(dir_path, "profile", "usuario")
+    options.add_argument(r"user-data-dir={}".format(profile))
+
+    driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+    driver.get('https://web.whatsapp.com/')
+    os.system('pause')
+
+    return driver
+
+
 ## Começa Aqui
 data_hoje = datetime.today().date()
 start()
-######################################################################################################
-#                                        CHAMANDO DRIVER                                             #      
-######################################################################################################
-options = webdriver.ChromeOptions()
-
-dir_path = os.getcwd()
-profile = os.path.join(dir_path, "profile", "usuario")
-options.add_argument(r"user-data-dir={}".format(profile))
-
-driver= webdriver.Chrome(ChromeDriverManager().install(), options=options)
-driver.get('https://web.whatsapp.com/')
-os.system('pause')
-#######################################################################################################
-#                                        CHAMANDO DRIVER                                              #                                    #      
-######################################################################################################
-
-deNovo = int(input("Deseja fazer outra operação?\n [1]Sim [2]Não\n"))
-if (deNovo == 1):
-    start()
-else:
-    os.system('pause')
-    driver.close()
+dasjkfjsakfjdfdsg

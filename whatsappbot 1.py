@@ -1,9 +1,5 @@
 # importar as bibliotecas
-from logging import exception
-from typing import Optional
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.remote.webelement import WebElement
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
 from time import sleep  # lib tempo
