@@ -470,3 +470,575 @@ profile/usuario/Default/Sessions/Tabs_13269110015835804
 profile/usuario/Default/Sessions/Tabs_13269110377967454
 profile/usuario/Default/data_reduction_proxy_leveldb/000021.log
 profile/usuario/Default/data_reduction_proxy_leveldb/MANIFEST-000020
+dist/profile/usuario/BrowserMetrics-spare.pma
+dist/profile/usuario/chrome_shutdown_ms.txt
+dist/profile/usuario/CrashpadMetrics-active.pma
+dist/profile/usuario/DevToolsActivePort
+dist/profile/usuario/First Run
+dist/profile/usuario/Last Browser
+dist/profile/usuario/Last Version
+dist/profile/usuario/Local State
+dist/profile/usuario/Module Info Cache
+dist/profile/usuario/BrowserMetrics/BrowserMetrics-60D654D3-75C.pma
+dist/profile/usuario/Crashpad/metadata
+dist/profile/usuario/Crashpad/settings.dat
+dist/profile/usuario/Default/Cookies
+dist/profile/usuario/Default/Cookies-journal
+dist/profile/usuario/Default/Favicons
+dist/profile/usuario/Default/Favicons-journal
+dist/profile/usuario/Default/heavy_ad_intervention_opt_out.db
+dist/profile/usuario/Default/heavy_ad_intervention_opt_out.db-journal
+dist/profile/usuario/Default/History
+dist/profile/usuario/Default/History Provider Cache
+dist/profile/usuario/Default/History-journal
+dist/profile/usuario/Default/Login Data
+dist/profile/usuario/Default/Login Data-journal
+dist/profile/usuario/Default/Media History
+dist/profile/usuario/Default/Media History-journal
+dist/profile/usuario/Default/Network Action Predictor
+dist/profile/usuario/Default/Network Action Predictor-journal
+dist/profile/usuario/Default/Network Persistent State
+dist/profile/usuario/Default/Preferences
+dist/profile/usuario/Default/PreferredApps
+dist/profile/usuario/Default/QuotaManager
+dist/profile/usuario/Default/QuotaManager-journal
+dist/profile/usuario/Default/Reporting and NEL
+dist/profile/usuario/Default/Reporting and NEL-journal
+dist/profile/usuario/Default/Secure Preferences
+dist/profile/usuario/Default/Shortcuts
+dist/profile/usuario/Default/Shortcuts-journal
+dist/profile/usuario/Default/Top Sites
+dist/profile/usuario/Default/Top Sites-journal
+dist/profile/usuario/Default/TransportSecurity
+dist/profile/usuario/Default/Visited Links
+dist/profile/usuario/Default/Web Data
+dist/profile/usuario/Default/Web Data-journal
+dist/profile/usuario/Default/AutofillStrikeDatabase/LOCK
+dist/profile/usuario/Default/AutofillStrikeDatabase/LOG
+dist/profile/usuario/Default/BudgetDatabase/LOCK
+dist/profile/usuario/Default/BudgetDatabase/LOG
+dist/profile/usuario/Default/Cache/data_0
+dist/profile/usuario/Default/Cache/data_1
+dist/profile/usuario/Default/Cache/data_2
+dist/profile/usuario/Default/Cache/data_3
+dist/profile/usuario/Default/Cache/f_00000a
+dist/profile/usuario/Default/Cache/f_00000b
+dist/profile/usuario/Default/Cache/f_00000c
+dist/profile/usuario/Default/Cache/f_00000d
+dist/profile/usuario/Default/Cache/f_000001
+dist/profile/usuario/Default/Cache/f_000002
+dist/profile/usuario/Default/Cache/f_000003
+dist/profile/usuario/Default/Cache/f_000004
+dist/profile/usuario/Default/Cache/f_000005
+dist/profile/usuario/Default/Cache/f_000006
+dist/profile/usuario/Default/Cache/f_000007
+dist/profile/usuario/Default/Cache/f_000008
+dist/profile/usuario/Default/Cache/f_000009
+dist/profile/usuario/Default/Cache/index
+dist/profile/usuario/Default/Code Cache/js/6f479e9b5d5ff875_0
+dist/profile/usuario/Default/Code Cache/js/8f93763dd4ba4aa8_0
+dist/profile/usuario/Default/Code Cache/js/53bf979ce8966b33_0
+dist/profile/usuario/Default/Code Cache/js/2210d4ce64dc1e20_0
+dist/profile/usuario/Default/Code Cache/js/20007a39cc948a17_0
+dist/profile/usuario/Default/Code Cache/js/a2b91c45ce2da997_0
+dist/profile/usuario/Default/Code Cache/js/aaec620794bce0ed_0
+dist/profile/usuario/Default/Code Cache/js/c024c6a6f8b4d2ba_0
+dist/profile/usuario/Default/Code Cache/js/cacc3688007540f9_0
+dist/profile/usuario/Default/Code Cache/js/f1f78c5b74d534a7_0
+dist/profile/usuario/Default/Code Cache/js/fe4b6aafdf501bbf_0
+dist/profile/usuario/Default/Code Cache/js/index
+dist/profile/usuario/Default/Code Cache/js/index-dir/the-real-index
+dist/profile/usuario/Default/Code Cache/wasm/index
+dist/profile/usuario/Default/Code Cache/wasm/index-dir/the-real-index
+dist/profile/usuario/Default/Extension State/000003.log
+dist/profile/usuario/Default/Extension State/CURRENT
+dist/profile/usuario/Default/Extension State/LOCK
+dist/profile/usuario/Default/Extension State/LOG
+dist/profile/usuario/Default/Extension State/MANIFEST-000001
+dist/profile/usuario/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+dist/profile/usuario/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+dist/profile/usuario/Default/Feature Engagement Tracker/EventDB/LOCK
+dist/profile/usuario/Default/Feature Engagement Tracker/EventDB/LOG
+dist/profile/usuario/Default/File System/Origins/000003.log
+dist/profile/usuario/Default/File System/Origins/CURRENT
+dist/profile/usuario/Default/File System/Origins/LOCK
+dist/profile/usuario/Default/File System/Origins/LOG
+dist/profile/usuario/Default/File System/Origins/MANIFEST-000001
+dist/profile/usuario/Default/GPUCache/data_0
+dist/profile/usuario/Default/GPUCache/data_1
+dist/profile/usuario/Default/GPUCache/data_2
+dist/profile/usuario/Default/GPUCache/data_3
+dist/profile/usuario/Default/GPUCache/index
+dist/profile/usuario/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000003.log
+dist/profile/usuario/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/CURRENT
+dist/profile/usuario/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOCK
+dist/profile/usuario/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOG
+dist/profile/usuario/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+dist/profile/usuario/Default/Local Storage/leveldb/000003.log
+dist/profile/usuario/Default/Local Storage/leveldb/CURRENT
+dist/profile/usuario/Default/Local Storage/leveldb/LOCK
+dist/profile/usuario/Default/Local Storage/leveldb/LOG
+dist/profile/usuario/Default/Local Storage/leveldb/MANIFEST-000001
+dist/profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/index.txt
+dist/profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/02d2e33c-2fb0-4bed-85b6-d4b55902bcdf/a034088ecd4af689_0
+dist/profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/02d2e33c-2fb0-4bed-85b6-d4b55902bcdf/index
+dist/profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/02d2e33c-2fb0-4bed-85b6-d4b55902bcdf/index-dir/the-real-index
+dist/profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/17794aad-2815-41b9-ae4d-ddfe58530720/index
+dist/profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/17794aad-2815-41b9-ae4d-ddfe58530720/index-dir/the-real-index
+dist/profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a40c505f-63ec-4621-9ce2-625b044e5f93/index
+dist/profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/a40c505f-63ec-4621-9ce2-625b044e5f93/index-dir/the-real-index
+dist/profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/fce9d337-8d65-4cb9-a702-ba9eaa401cf4/index
+dist/profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/fce9d337-8d65-4cb9-a702-ba9eaa401cf4/index-dir/the-real-index
+dist/profile/usuario/Default/Service Worker/Database/000003.log
+dist/profile/usuario/Default/Service Worker/Database/CURRENT
+dist/profile/usuario/Default/Service Worker/Database/LOCK
+dist/profile/usuario/Default/Service Worker/Database/LOG
+dist/profile/usuario/Default/Service Worker/Database/MANIFEST-000001
+dist/profile/usuario/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_0
+dist/profile/usuario/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_1
+dist/profile/usuario/Default/Service Worker/ScriptCache/index
+dist/profile/usuario/Default/Service Worker/ScriptCache/index-dir/the-real-index
+dist/profile/usuario/Default/Session Storage/000003.log
+dist/profile/usuario/Default/Session Storage/CURRENT
+dist/profile/usuario/Default/Session Storage/LOCK
+dist/profile/usuario/Default/Session Storage/LOG
+dist/profile/usuario/Default/Session Storage/MANIFEST-000001
+dist/profile/usuario/Default/Sessions/Session_13269132765292927
+dist/profile/usuario/Default/Sessions/Tabs_13269133016451630
+dist/profile/usuario/Default/Site Characteristics Database/000003.log
+dist/profile/usuario/Default/Site Characteristics Database/CURRENT
+dist/profile/usuario/Default/Site Characteristics Database/LOCK
+dist/profile/usuario/Default/Site Characteristics Database/LOG
+dist/profile/usuario/Default/Site Characteristics Database/MANIFEST-000001
+dist/profile/usuario/Default/Sync Data/LevelDB/000003.log
+dist/profile/usuario/Default/Sync Data/LevelDB/CURRENT
+dist/profile/usuario/Default/Sync Data/LevelDB/LOCK
+dist/profile/usuario/Default/Sync Data/LevelDB/LOG
+dist/profile/usuario/Default/Sync Data/LevelDB/MANIFEST-000001
+dist/profile/usuario/Default/data_reduction_proxy_leveldb/000003.log
+dist/profile/usuario/Default/data_reduction_proxy_leveldb/CURRENT
+dist/profile/usuario/Default/data_reduction_proxy_leveldb/LOCK
+dist/profile/usuario/Default/data_reduction_proxy_leveldb/LOG
+dist/profile/usuario/Default/data_reduction_proxy_leveldb/MANIFEST-000002
+dist/profile/usuario/Default/databases/Databases.db
+dist/profile/usuario/Default/databases/Databases.db-journal
+dist/profile/usuario/Default/shared_proto_db/000003.log
+dist/profile/usuario/Default/shared_proto_db/CURRENT
+dist/profile/usuario/Default/shared_proto_db/LOCK
+dist/profile/usuario/Default/shared_proto_db/LOG
+dist/profile/usuario/Default/shared_proto_db/MANIFEST-000001
+dist/profile/usuario/Default/shared_proto_db/metadata/000003.log
+dist/profile/usuario/Default/shared_proto_db/metadata/CURRENT
+dist/profile/usuario/Default/shared_proto_db/metadata/LOCK
+dist/profile/usuario/Default/shared_proto_db/metadata/LOG
+dist/profile/usuario/Default/shared_proto_db/metadata/MANIFEST-000001
+dist/profile/usuario/FileTypePolicies/43/download_file_types.pb
+dist/profile/usuario/FileTypePolicies/43/manifest.fingerprint
+dist/profile/usuario/FileTypePolicies/43/manifest.json
+dist/profile/usuario/FileTypePolicies/43/_metadata/verified_contents.json
+dist/profile/usuario/Floc/1.0.6/manifest.fingerprint
+dist/profile/usuario/Floc/1.0.6/manifest.json
+dist/profile/usuario/Floc/1.0.6/SortingLshClusters
+dist/profile/usuario/Floc/1.0.6/_metadata/verified_contents.json
+dist/profile/usuario/GrShaderCache/GPUCache/data_0
+dist/profile/usuario/GrShaderCache/GPUCache/data_1
+dist/profile/usuario/GrShaderCache/GPUCache/data_2
+dist/profile/usuario/GrShaderCache/GPUCache/data_3
+dist/profile/usuario/GrShaderCache/GPUCache/index
+dist/profile/usuario/OnDeviceHeadSuggestModel/20210618.380321574/manifest.fingerprint
+dist/profile/usuario/OnDeviceHeadSuggestModel/20210618.380321574/manifest.json
+dist/profile/usuario/OnDeviceHeadSuggestModel/20210618.380321574/tl_pt-BR_2021-06-18_380321574_100000_index.bin
+dist/profile/usuario/OnDeviceHeadSuggestModel/20210618.380321574/_metadata/verified_contents.json
+dist/profile/usuario/ShaderCache/GPUCache/data_0
+dist/profile/usuario/ShaderCache/GPUCache/data_1
+dist/profile/usuario/ShaderCache/GPUCache/data_2
+dist/profile/usuario/ShaderCache/GPUCache/data_3
+dist/profile/usuario/ShaderCache/GPUCache/index
+dist/profile/usuario/Subresource Filter/Indexed Rules/29/9.28.0/Ruleset Data
+dist/profile/usuario/Subresource Filter/Unindexed Rules/9.28.0/Filtering Rules
+dist/profile/usuario/Subresource Filter/Unindexed Rules/9.28.0/LICENSE.txt
+dist/profile/usuario/Subresource Filter/Unindexed Rules/9.28.0/manifest.fingerprint
+dist/profile/usuario/Subresource Filter/Unindexed Rules/9.28.0/manifest.json
+dist/profile/usuario/Subresource Filter/Unindexed Rules/9.28.0/_metadata/verified_contents.json
+dist/profile/usuario/pnacl/0.57.44.2492/manifest.fingerprint
+dist/profile/usuario/pnacl/0.57.44.2492/manifest.json
+dist/profile/usuario/pnacl/0.57.44.2492/_metadata/verified_contents.json
+dist/profile/usuario/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_pnacl_json
+dist/profile/usuario/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtbegin_for_eh_o
+dist/profile/usuario/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtbegin_o
+dist/profile/usuario/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtend_o
+dist/profile/usuario/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_ld_nexe
+dist/profile/usuario/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libcrt_platform_a
+dist/profile/usuario/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libgcc_a
+dist/profile/usuario/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libpnacl_irt_shim_a
+dist/profile/usuario/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libpnacl_irt_shim_dummy_a
+dist/profile/usuario/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_llc_nexe
+dist/profile/usuario/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_sz_nexe
+profile/usuario/AutofillRegex/2021.2.22.1142/data.json
+profile/usuario/AutofillRegex/2021.2.22.1142/manifest.fingerprint
+profile/usuario/AutofillRegex/2021.2.22.1142/manifest.json
+profile/usuario/AutofillRegex/2021.2.22.1142/_metadata/verified_contents.json
+profile/usuario/AutofillStates/2020.11.2.164946/AD
+profile/usuario/AutofillStates/2020.11.2.164946/AE
+profile/usuario/AutofillStates/2020.11.2.164946/AF
+profile/usuario/AutofillStates/2020.11.2.164946/AG
+profile/usuario/AutofillStates/2020.11.2.164946/AL
+profile/usuario/AutofillStates/2020.11.2.164946/AM
+profile/usuario/AutofillStates/2020.11.2.164946/AO
+profile/usuario/AutofillStates/2020.11.2.164946/AR
+profile/usuario/AutofillStates/2020.11.2.164946/AS
+profile/usuario/AutofillStates/2020.11.2.164946/AT
+profile/usuario/AutofillStates/2020.11.2.164946/AU
+profile/usuario/AutofillStates/2020.11.2.164946/AX
+profile/usuario/AutofillStates/2020.11.2.164946/AZ
+profile/usuario/AutofillStates/2020.11.2.164946/BA
+profile/usuario/AutofillStates/2020.11.2.164946/BB
+profile/usuario/AutofillStates/2020.11.2.164946/BD
+profile/usuario/AutofillStates/2020.11.2.164946/BE
+profile/usuario/AutofillStates/2020.11.2.164946/BF
+profile/usuario/AutofillStates/2020.11.2.164946/BG
+profile/usuario/AutofillStates/2020.11.2.164946/BH
+profile/usuario/AutofillStates/2020.11.2.164946/BI
+profile/usuario/AutofillStates/2020.11.2.164946/BJ
+profile/usuario/AutofillStates/2020.11.2.164946/BM
+profile/usuario/AutofillStates/2020.11.2.164946/BN
+profile/usuario/AutofillStates/2020.11.2.164946/BO
+profile/usuario/AutofillStates/2020.11.2.164946/BQ
+profile/usuario/AutofillStates/2020.11.2.164946/BR
+profile/usuario/AutofillStates/2020.11.2.164946/BS
+profile/usuario/AutofillStates/2020.11.2.164946/BT
+profile/usuario/AutofillStates/2020.11.2.164946/BW
+profile/usuario/AutofillStates/2020.11.2.164946/BY
+profile/usuario/AutofillStates/2020.11.2.164946/BZ
+profile/usuario/AutofillStates/2020.11.2.164946/CA
+profile/usuario/AutofillStates/2020.11.2.164946/CD
+profile/usuario/AutofillStates/2020.11.2.164946/CF
+profile/usuario/AutofillStates/2020.11.2.164946/CG
+profile/usuario/AutofillStates/2020.11.2.164946/CH
+profile/usuario/AutofillStates/2020.11.2.164946/CI
+profile/usuario/AutofillStates/2020.11.2.164946/CL
+profile/usuario/AutofillStates/2020.11.2.164946/CM
+profile/usuario/AutofillStates/2020.11.2.164946/CN
+profile/usuario/AutofillStates/2020.11.2.164946/CO
+profile/usuario/AutofillStates/2020.11.2.164946/CR
+profile/usuario/AutofillStates/2020.11.2.164946/CU
+profile/usuario/AutofillStates/2020.11.2.164946/CV
+profile/usuario/AutofillStates/2020.11.2.164946/CW
+profile/usuario/AutofillStates/2020.11.2.164946/CY
+profile/usuario/AutofillStates/2020.11.2.164946/CZ
+profile/usuario/AutofillStates/2020.11.2.164946/DE
+profile/usuario/AutofillStates/2020.11.2.164946/DJ
+profile/usuario/AutofillStates/2020.11.2.164946/DK
+profile/usuario/AutofillStates/2020.11.2.164946/DM
+profile/usuario/AutofillStates/2020.11.2.164946/DO
+profile/usuario/AutofillStates/2020.11.2.164946/DZ
+profile/usuario/AutofillStates/2020.11.2.164946/EC
+profile/usuario/AutofillStates/2020.11.2.164946/EE
+profile/usuario/AutofillStates/2020.11.2.164946/EG
+profile/usuario/AutofillStates/2020.11.2.164946/EH
+profile/usuario/AutofillStates/2020.11.2.164946/ER
+profile/usuario/AutofillStates/2020.11.2.164946/ES
+profile/usuario/AutofillStates/2020.11.2.164946/ET
+profile/usuario/AutofillStates/2020.11.2.164946/FI
+profile/usuario/AutofillStates/2020.11.2.164946/FJ
+profile/usuario/AutofillStates/2020.11.2.164946/FM
+profile/usuario/AutofillStates/2020.11.2.164946/FO
+profile/usuario/AutofillStates/2020.11.2.164946/FR
+profile/usuario/AutofillStates/2020.11.2.164946/GA
+profile/usuario/AutofillStates/2020.11.2.164946/GB
+profile/usuario/AutofillStates/2020.11.2.164946/GD
+profile/usuario/AutofillStates/2020.11.2.164946/GE
+profile/usuario/AutofillStates/2020.11.2.164946/GF
+profile/usuario/AutofillStates/2020.11.2.164946/GG
+profile/usuario/AutofillStates/2020.11.2.164946/GH
+profile/usuario/AutofillStates/2020.11.2.164946/GL
+profile/usuario/AutofillStates/2020.11.2.164946/GM
+profile/usuario/AutofillStates/2020.11.2.164946/GN
+profile/usuario/AutofillStates/2020.11.2.164946/GP
+profile/usuario/AutofillStates/2020.11.2.164946/GQ
+profile/usuario/AutofillStates/2020.11.2.164946/GR
+profile/usuario/AutofillStates/2020.11.2.164946/GT
+profile/usuario/AutofillStates/2020.11.2.164946/GW
+profile/usuario/AutofillStates/2020.11.2.164946/GY
+profile/usuario/AutofillStates/2020.11.2.164946/HK
+profile/usuario/AutofillStates/2020.11.2.164946/HN
+profile/usuario/AutofillStates/2020.11.2.164946/HR
+profile/usuario/AutofillStates/2020.11.2.164946/HT
+profile/usuario/AutofillStates/2020.11.2.164946/HU
+profile/usuario/AutofillStates/2020.11.2.164946/ID
+profile/usuario/AutofillStates/2020.11.2.164946/IE
+profile/usuario/AutofillStates/2020.11.2.164946/IL
+profile/usuario/AutofillStates/2020.11.2.164946/IM
+profile/usuario/AutofillStates/2020.11.2.164946/IN
+profile/usuario/AutofillStates/2020.11.2.164946/IQ
+profile/usuario/AutofillStates/2020.11.2.164946/IR
+profile/usuario/AutofillStates/2020.11.2.164946/IS
+profile/usuario/AutofillStates/2020.11.2.164946/IT
+profile/usuario/AutofillStates/2020.11.2.164946/JE
+profile/usuario/AutofillStates/2020.11.2.164946/JM
+profile/usuario/AutofillStates/2020.11.2.164946/JO
+profile/usuario/AutofillStates/2020.11.2.164946/JP
+profile/usuario/AutofillStates/2020.11.2.164946/KE
+profile/usuario/AutofillStates/2020.11.2.164946/KG
+profile/usuario/AutofillStates/2020.11.2.164946/KH
+profile/usuario/AutofillStates/2020.11.2.164946/KI
+profile/usuario/AutofillStates/2020.11.2.164946/KM
+profile/usuario/AutofillStates/2020.11.2.164946/KN
+profile/usuario/AutofillStates/2020.11.2.164946/KP
+profile/usuario/AutofillStates/2020.11.2.164946/KR
+profile/usuario/AutofillStates/2020.11.2.164946/KW
+profile/usuario/AutofillStates/2020.11.2.164946/KY
+profile/usuario/AutofillStates/2020.11.2.164946/KZ
+profile/usuario/AutofillStates/2020.11.2.164946/LA
+profile/usuario/AutofillStates/2020.11.2.164946/LB
+profile/usuario/AutofillStates/2020.11.2.164946/LC
+profile/usuario/AutofillStates/2020.11.2.164946/LI
+profile/usuario/AutofillStates/2020.11.2.164946/LK
+profile/usuario/AutofillStates/2020.11.2.164946/LR
+profile/usuario/AutofillStates/2020.11.2.164946/LS
+profile/usuario/AutofillStates/2020.11.2.164946/LT
+profile/usuario/AutofillStates/2020.11.2.164946/LU
+profile/usuario/AutofillStates/2020.11.2.164946/LV
+profile/usuario/AutofillStates/2020.11.2.164946/LY
+profile/usuario/AutofillStates/2020.11.2.164946/MA
+profile/usuario/AutofillStates/2020.11.2.164946/manifest.fingerprint
+profile/usuario/AutofillStates/2020.11.2.164946/manifest.json
+profile/usuario/AutofillStates/2020.11.2.164946/MD
+profile/usuario/AutofillStates/2020.11.2.164946/ME
+profile/usuario/AutofillStates/2020.11.2.164946/MF
+profile/usuario/AutofillStates/2020.11.2.164946/MG
+profile/usuario/AutofillStates/2020.11.2.164946/MH
+profile/usuario/AutofillStates/2020.11.2.164946/MK
+profile/usuario/AutofillStates/2020.11.2.164946/ML
+profile/usuario/AutofillStates/2020.11.2.164946/MM
+profile/usuario/AutofillStates/2020.11.2.164946/MN
+profile/usuario/AutofillStates/2020.11.2.164946/MP
+profile/usuario/AutofillStates/2020.11.2.164946/MQ
+profile/usuario/AutofillStates/2020.11.2.164946/MR
+profile/usuario/AutofillStates/2020.11.2.164946/MS
+profile/usuario/AutofillStates/2020.11.2.164946/MU
+profile/usuario/AutofillStates/2020.11.2.164946/MV
+profile/usuario/AutofillStates/2020.11.2.164946/MW
+profile/usuario/AutofillStates/2020.11.2.164946/MX
+profile/usuario/AutofillStates/2020.11.2.164946/MY
+profile/usuario/AutofillStates/2020.11.2.164946/MZ
+profile/usuario/AutofillStates/2020.11.2.164946/NA
+profile/usuario/AutofillStates/2020.11.2.164946/NC
+profile/usuario/AutofillStates/2020.11.2.164946/NE
+profile/usuario/AutofillStates/2020.11.2.164946/NG
+profile/usuario/AutofillStates/2020.11.2.164946/NI
+profile/usuario/AutofillStates/2020.11.2.164946/NL
+profile/usuario/AutofillStates/2020.11.2.164946/NO
+profile/usuario/AutofillStates/2020.11.2.164946/NP
+profile/usuario/AutofillStates/2020.11.2.164946/NR
+profile/usuario/AutofillStates/2020.11.2.164946/NU
+profile/usuario/AutofillStates/2020.11.2.164946/NZ
+profile/usuario/AutofillStates/2020.11.2.164946/OM
+profile/usuario/AutofillStates/2020.11.2.164946/PA
+profile/usuario/AutofillStates/2020.11.2.164946/PE
+profile/usuario/AutofillStates/2020.11.2.164946/PF
+profile/usuario/AutofillStates/2020.11.2.164946/PG
+profile/usuario/AutofillStates/2020.11.2.164946/PH
+profile/usuario/AutofillStates/2020.11.2.164946/PK
+profile/usuario/AutofillStates/2020.11.2.164946/PL
+profile/usuario/AutofillStates/2020.11.2.164946/PM
+profile/usuario/AutofillStates/2020.11.2.164946/PR
+profile/usuario/AutofillStates/2020.11.2.164946/PS
+profile/usuario/AutofillStates/2020.11.2.164946/PT
+profile/usuario/AutofillStates/2020.11.2.164946/PW
+profile/usuario/AutofillStates/2020.11.2.164946/PY
+profile/usuario/AutofillStates/2020.11.2.164946/QA
+profile/usuario/AutofillStates/2020.11.2.164946/RE
+profile/usuario/AutofillStates/2020.11.2.164946/RO
+profile/usuario/AutofillStates/2020.11.2.164946/RS
+profile/usuario/AutofillStates/2020.11.2.164946/RU
+profile/usuario/AutofillStates/2020.11.2.164946/RW
+profile/usuario/AutofillStates/2020.11.2.164946/SA
+profile/usuario/AutofillStates/2020.11.2.164946/SB
+profile/usuario/AutofillStates/2020.11.2.164946/SC
+profile/usuario/AutofillStates/2020.11.2.164946/SD
+profile/usuario/AutofillStates/2020.11.2.164946/SE
+profile/usuario/AutofillStates/2020.11.2.164946/SH
+profile/usuario/AutofillStates/2020.11.2.164946/SI
+profile/usuario/AutofillStates/2020.11.2.164946/SJ
+profile/usuario/AutofillStates/2020.11.2.164946/SK
+profile/usuario/AutofillStates/2020.11.2.164946/SL
+profile/usuario/AutofillStates/2020.11.2.164946/SM
+profile/usuario/AutofillStates/2020.11.2.164946/SN
+profile/usuario/AutofillStates/2020.11.2.164946/SO
+profile/usuario/AutofillStates/2020.11.2.164946/SR
+profile/usuario/AutofillStates/2020.11.2.164946/SS
+profile/usuario/AutofillStates/2020.11.2.164946/ST
+profile/usuario/AutofillStates/2020.11.2.164946/SV
+profile/usuario/AutofillStates/2020.11.2.164946/SX
+profile/usuario/AutofillStates/2020.11.2.164946/SY
+profile/usuario/AutofillStates/2020.11.2.164946/SZ
+profile/usuario/AutofillStates/2020.11.2.164946/TC
+profile/usuario/AutofillStates/2020.11.2.164946/TD
+profile/usuario/AutofillStates/2020.11.2.164946/TG
+profile/usuario/AutofillStates/2020.11.2.164946/TH
+profile/usuario/AutofillStates/2020.11.2.164946/TJ
+profile/usuario/AutofillStates/2020.11.2.164946/TK
+profile/usuario/AutofillStates/2020.11.2.164946/TL
+profile/usuario/AutofillStates/2020.11.2.164946/TM
+profile/usuario/AutofillStates/2020.11.2.164946/TN
+profile/usuario/AutofillStates/2020.11.2.164946/TO
+profile/usuario/AutofillStates/2020.11.2.164946/TR
+profile/usuario/AutofillStates/2020.11.2.164946/TT
+profile/usuario/AutofillStates/2020.11.2.164946/TV
+profile/usuario/AutofillStates/2020.11.2.164946/TW
+profile/usuario/AutofillStates/2020.11.2.164946/TZ
+profile/usuario/AutofillStates/2020.11.2.164946/UA
+profile/usuario/AutofillStates/2020.11.2.164946/UG
+profile/usuario/AutofillStates/2020.11.2.164946/US
+profile/usuario/AutofillStates/2020.11.2.164946/UY
+profile/usuario/AutofillStates/2020.11.2.164946/UZ
+profile/usuario/AutofillStates/2020.11.2.164946/VC
+profile/usuario/AutofillStates/2020.11.2.164946/VE
+profile/usuario/AutofillStates/2020.11.2.164946/VG
+profile/usuario/AutofillStates/2020.11.2.164946/VI
+profile/usuario/AutofillStates/2020.11.2.164946/VN
+profile/usuario/AutofillStates/2020.11.2.164946/VU
+profile/usuario/AutofillStates/2020.11.2.164946/WF
+profile/usuario/AutofillStates/2020.11.2.164946/WS
+profile/usuario/AutofillStates/2020.11.2.164946/XK
+profile/usuario/AutofillStates/2020.11.2.164946/YE
+profile/usuario/AutofillStates/2020.11.2.164946/YT
+profile/usuario/AutofillStates/2020.11.2.164946/ZA
+profile/usuario/AutofillStates/2020.11.2.164946/ZM
+profile/usuario/AutofillStates/2020.11.2.164946/ZW
+profile/usuario/AutofillStates/2020.11.2.164946/_metadata/verified_contents.json
+profile/usuario/BrowserMetrics/BrowserMetrics-60D64D95-2378.pma
+profile/usuario/Default/Cache/f_00006b
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/0ae5d32eca6bf995_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/0bf7dbecab908adc_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/0d4159fd862801e8_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/1c0917fe4d2abfce_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/1d8ff976f5ff412e_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/2bd497fec9135055_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/2e04c0a65dfab4d3_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/2ed4711348193032_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/3a3c9cbe6bd5ca35_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/3a8f59e0caa48c68_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/3e1340041c5c95aa_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/4a2968ba49c18259_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/4b64d99b8eec5d4c_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/4eff866bce7cb16b_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/4fda78a25d4092ed_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/5a04985bfc5b5318_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/5bf76a814b8def5d_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/6eedf2fbe04289e2_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/6fea59bc5b22b48f_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/7e00e908d3c829b3_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/08afe5d64c63b9ec_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/8bbf552553cf92b1_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/8d26fd442efbd543_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/8dab29cf0f3c1f2a_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/9b9b90f1f9d1b547_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/9c5bafa79496c288_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/9dbc30f670ff0a46_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/24c0c1fc2d4787cb_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/24e7ace6f22a79bc_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/30a0ceef117adeb1_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/35a19becdd938c6d_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/43b8e5e96fd12ed2_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/44c61358359c6ec4_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/44d3c46e4a208f77_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/51dd467d82e210cb_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/57bcbf486c648f6d_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/64e387981ae76b6b_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/68d6c87afa221ee6_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/70b9410e5e3cfa39_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/76a06ae4a179b91b_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/76f507755e65e417_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/81cd568dc2f6a54c_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/89a4d2ab5ac5a9e5_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/95dc5fb3c7e2232c_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/97afc1fd31946f12_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/151a9b38968dd108_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/195c13de12e72d1d_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/297b637eb4bdc7f0_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/336bad0f136537d2_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/0525b2fece5e0c79_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/647c0d18d7b45d12_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/0718e4cdb31306a0_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/727b7bc164258490_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/746a6d8947a33030_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/819bcf9515647b33_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/1923f3e87dbd4243_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/3457c91c08ebb8aa_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/5645b6f05c98efa2_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/5817da80f33b8e04_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/7090fdcd94dd1590_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/9128fff0ac0bec47_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/16694e127b696069_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/34579aea43ec3f18_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/51323ee5f411e287_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/64356d6f4127b893_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/67907f455252eb74_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/110932bd753a3612_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/154767d48e69ba8f_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/156689dbfa670bd6_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/192867a2377b3085_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/51869873b237a23d_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/a9afeaec2179ce3d_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/a455c5f2ca4e6c39_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/aca0f63d90e2a06c_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/b19ceb348c93c402_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/b56a6a7829b2b3bd_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/b87e6e9787138dbf_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/b356b6125b529894_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/b5959a634f26d4f5_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/ba00c830d9c02b11_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/bb6d83c0834c975e_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/bd20cb1e98061d13_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/bdb2562c4c90d90b_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/be667524933d284e_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/c6db233eb9ff5f3e_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/c39dd56b368228b5_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/c761a61cb49c813b_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/c7910363cf0f7fc5_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/d7c5b089ac375586_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/d22d180eb0817f3f_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/d719cf7dd19e5f16_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/d8841a2decb01c6e_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/d41396dcba408b87_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/da6dc7c5f4cb5d33_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/da9f6d2f201bfd79_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/df0957c99e78e0b0_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/e39f09797c511233_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/e70c7a4c0cfb02fa_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/e154834e854e53e5_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/eb612b20ada5ea91_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/f0f5c68c29e12a59_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/f179f9a26c22167d_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/fb0320cf6878a4d9_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/fb7159e1f03c4d97_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/fbfb8de2613d0e77_0
+profile/usuario/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/dd42bff1-2a5b-4070-baa9-61785618b8b7/ff14b8ecc8877216_0
+profile/usuario/Default/Sessions/Session_13269130904562622
+profile/usuario/Default/Sessions/Tabs_13269130904656909
+profile/usuario/Default/data_reduction_proxy_leveldb/000041.log
+profile/usuario/Default/data_reduction_proxy_leveldb/MANIFEST-000040
+profile/usuario/ZxcvbnData/1/english_wikipedia.txt
+profile/usuario/ZxcvbnData/1/female_names.txt
+profile/usuario/ZxcvbnData/1/male_names.txt
+profile/usuario/ZxcvbnData/1/manifest.fingerprint
+profile/usuario/ZxcvbnData/1/manifest.json
+profile/usuario/ZxcvbnData/1/passwords.txt
+profile/usuario/ZxcvbnData/1/surnames.txt
+profile/usuario/ZxcvbnData/1/us_tv_and_film.txt
+profile/usuario/ZxcvbnData/1/_metadata/verified_contents.json
+build/whatsappbot/Analysis-00.toc
+build/whatsappbot/base_library.zip
+build/whatsappbot/EXE-00.toc
+build/whatsappbot/PKG-00.pkg
+build/whatsappbot/PKG-00.toc
+build/whatsappbot/PYZ-00.pyz
+build/whatsappbot/PYZ-00.toc
+build/whatsappbot/Tree-00.toc
+build/whatsappbot/Tree-01.toc
+build/whatsappbot/Tree-02.toc
+build/whatsappbot/warn-whatsappbot.txt
+build/whatsappbot/whatsappbot.exe.manifest
+build/whatsappbot/xref-whatsappbot.html

@@ -64,7 +64,7 @@ def lendoAulasExperimentais(plan, quantidade, data_hoje):
     while (linhas <= quantidade):
         data_aula = plan["Data"][linhas].date()
         diferenca = ((data_aula - data_hoje).days)
-        if diferenca == 1:    
+        if diferenca == 1:
             numero = plan["Numero"][linhas]
             nomeAdulto = plan["NomeAdulto"][linhas]
             servico = plan["Servico"][linhas]
