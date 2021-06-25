@@ -1,7 +1,6 @@
 # importar as bibliotecas
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from webdriver_manager import driver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
 from time import sleep  # lib tempo
@@ -15,7 +14,6 @@ import clipboard
 import os
 
 def buscar_contato(contato):
-    driver = chamandoDriver()
     try:
         campo_pesquisa = driver.find_element_by_xpath('//div[contains(@class,"copyable-text selectable-text")]')
         sleep(1)
@@ -29,7 +27,6 @@ def buscar_contato(contato):
         print('404 error: ', Erro)
 
 def enviar_mensagem(mensagem):
-
     clipboard.copy(mensagem)
     campo_mensagem = driver.find_elements_by_xpath('//div[contains(@class,"copyable-text selectable-text")]')
     campo_mensagem[1].click()
@@ -66,7 +63,7 @@ def lendoAulasExperimentais(plan, quantidade, data_hoje):
 
     while (linhas <= quantidade):
         data_aula = plan["Data"][linhas].date()
-        diferenca = ((data_hoje - data_aula).days)
+        diferenca = ((data_aula - data_hoje).days)
         if diferenca == 1:    
             numero = plan["Numero"][linhas]
             nomeAdulto = plan["NomeAdulto"][linhas]
@@ -87,7 +84,9 @@ def mensagemPersonalizada(plan, quantidade):
 
     linhas = 0  # contadora
     caminho= (r'.\planilha\mensagem.txt') 
-    texto = open(caminho,'r')
+    lendo = open(caminho,'r', encoding= 'utf-8')
+    texto = lendo.read()
+    lendo.close()
 
     while (linhas <= quantidade):
         numero = plan["Numero"][linhas]
@@ -151,26 +150,27 @@ def deNovo():
     if (deNovo == 'Yes'):
         start()
     else:
-        os.system('pause')
         driver.close()
 
-def chamandoDriver():
-    options = webdriver.ChromeOptions()
-    options.add_argument('ignore-certificate-errors')
-    options.add_experimental_option("excludeSwitches", ["enable-logging"])
-
-    dir_path = os.getcwd()
-    profile = os.path.join(dir_path, "profile", "usuario")
-    options.add_argument(r"user-data-dir={}".format(profile))
-
-    driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
-    driver.get('https://web.whatsapp.com/')
-    os.system('pause')
-
-    return driver
-
-
 ## Começa Aqui
+######################################################################################################
+#                                        CHAMANDO DRIVER                                             #      
+######################################################################################################
+
+options = webdriver.ChromeOptions()
+options.add_argument('ignore-certificate-errors')
+options.add_experimental_option("excludeSwitches", ["enable-logging"])
+
+dir_path = os.getcwd()
+profile = os.path.join(dir_path, "profile", "usuario")
+options.add_argument(r"user-data-dir={}".format(profile))
+
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+driver.get('https://web.whatsapp.com/')
+
 data_hoje = datetime.today().date()
 start()
-dasjkfjsakfjdfdsg
+
+#######################################################################################################
+#                                        CHAMANDO DRIVER                                              #                                    #      
+######################################################################################################
