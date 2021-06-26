@@ -49,6 +49,6 @@ Bom, é isso!
 Gostaria de deixar claro que sou apenas uma iniciante, mas que me diverti bastante aprendendo um pouco sobre automação.
 
 ## Esse projeto está publicado aqui graças aos incentivos dos meus amigos. Agradeço, primeiramente a Deus, depois a todos eles. Galera, Obrigada!!
-Gerssivaldo, Gabriel, Felype, Ruvian e Vicktor. Obrigada! Cada um de vocês tiveram um papel muito importante nesse projeto. Além disso, me aguentaram fazendo tantas perguntas kkk.
+Amir, Gerssivaldo, Gabriel, Felype, Ruvian e Vicktor. Obrigada! Cada um de vocês tiveram um papel muito importante nesse projeto. Além disso, me aguentaram fazendo tantas perguntas kkk.
 
 O Gabriel foi a minha maior companhia durante o desenvolvimento, acho que foi o que mais teve que ter paciência kkk Obrigada Gaell! Você é TOP!!!
