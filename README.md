@@ -1,5 +1,5 @@
 <h1 align="center"> Bot para disparo de mensagens no Whatsapp</h1>
-<h5 align="center" font-weigth="bold">  Desenvolvido em Python, o ZapBot tem por finalidade fazer o dísparo de mensagens automáticas para uma determinada lista de contatos fornecida previamente por uma planilha.</h5>
+<h5 align="center" font-weigth="bold">  Desenvolvido em Python, utilizando o Selenium e o PySimpleGUI, o ZapBot tem por finalidade fazer o dísparo de mensagens automáticas para uma determinada lista de contatos fornecida previamente por uma planilha.</h5>
 <p align="justify"> Quando criei essa automação, tinha por objetivo aprender python de uma forma diferente (uma vez que nunca tinha programado nessa linguagem antes) e satisfazer a necessidade da empresa em que eu trabalhava de: enviar avisos, dar parabéns aos aniversariantes e lembrar ao prospect sobre sua aula experimental ou avaliação marcada. </p>
 <p align="center">
   <img  height='600px' src="https://github.com/nanotecnologista/botZapLivre/blob/e41a802b13669235019d3e14c028e117576b7161/Demo.gif" alt="Demonstração">
@@ -18,14 +18,14 @@
 
 - Mensagem Personalizada - Dentro da pasta dist, há um arquivo mensagem.txt, basta abri-lo, inserir o texto desejado e salvar o arquivo.
                                                   
-                                                 Exemplo: Olá, [nome]!
+                                                Exemplo: Olá, [nome]!
   
   Para que o nome da pessoa seja inserido, é necessário que o texto contenha [nome] em seu escopo, caso contrário, o programa entederá que você não deseja colocar o nome da pessoa e enviará o texto sem a mudança.
 
   
   Caso queira apenas fazer um dísparo de mensagens, sem a necessidade de inserir o nome da pessoa, também é possível. Basta não inserir no texto [nome].
                                                   
-                                                 Exemplo: Olá, boa noite!
+                                                Exemplo: Olá, boa noite!
 
 - IMPORTANTE - Ao inserir o número do contato na planilha, verifique se o número está com o 9 a mais, caso esteja RETIRE-O. O Whatsapp trabalha apenas com 8 números após o DD.
                                                  
