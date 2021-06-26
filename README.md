@@ -9,27 +9,32 @@
   <p> 
     
 - Planilhas - São, ao todo, 3 planilhas (aniversariantes, aulasExperimentais, mensagemPersonalizada).
-Os dados solicitados para a planilha aniversariantes são: Data do Aniversário, Número, Nome, Se é Adulto (1) ou não (0).
-Em aulasExperimentais as informações necessárias são: Data da aula, Número, Serviço (se for natação, informar o nome da criança), Nome.
-Ambos já vem com script nativo pronto, uma vez que, essas funções foram criadas para resolver um problema específico da empresa.
-
-Já em mensagemPersonalizada, basta informar o Número e o Nome.
+  Os dados solicitados para a planilha aniversariantes são: Data do Aniversário, Número, Nome, Se é Adulto (1) ou não (0).
+  Em aulasExperimentais as informações necessárias são: Data da aula, Número, Serviço (se for natação, informar o nome da criança), Nome.
+  Ambos já vem com script nativo pronto, uma vez que, essas funções foram criadas para resolver um problema específico da empresa.
+  
+  Já em mensagemPersonalizada, basta informar o Número e o Nome.
 
 
 - Mensagem Personalizada - Dentro da pasta dist, há um arquivo mensagem.txt, basta abri-lo, inserir o texto desejado e salvar o arquivo.
-                                                  Exemplo: Olá, [nome]!
-Para que o nome da pessoa seja inserido, é necessário que o texto contenha [nome] em seu escopo, caso contrário, o programa entederá que você não deseja colocar o nome da pessoa e enviará o texto sem a mudança.
+                                                  
+                                                 Exemplo: Olá, [nome]!
+  
+  Para que o nome da pessoa seja inserido, é necessário que o texto contenha [nome] em seu escopo, caso contrário, o programa entederá que você não deseja colocar o nome da pessoa e enviará o texto sem a mudança.
 
-Caso queira apenas fazer um dísparo de mensagens, sem a necessidade de inserir o nome da pessoa, também é possível. Basta não inserir no texto [nome].
-                                                  Exemplo: Olá, boa noite!
+  
+  Caso queira apenas fazer um dísparo de mensagens, sem a necessidade de inserir o nome da pessoa, também é possível. Basta não inserir no texto [nome].
+                                                  
+                                                 Exemplo: Olá, boa noite!
 
 - IMPORTANTE - Ao inserir o número do contato na planilha, verifique se o número está com o 9 a mais, caso esteja RETIRE-O. O Whatsapp trabalha apenas com 8 números após o DD.
+                                                 
                                                  Segue um Exemplo CORRETO: 7499990520
                                                  
                                                  Exemplo ERRADO:74999990520
                                                  Outro exemplo ERRADO: 74 9999 0520
                                                 
-                É DE EXTREMA IMPORTÂNCIA QUE O CONTATO JÁ ESTEJA SALVO OU (SE NÃO ESTIVER SALVO) VOCÊ JÁ TENHA CONVERSADO COM ELE.
+       É DE EXTREMA IMPORTÂNCIA QUE O CONTATO JÁ ESTEJA SALVO OU (SE NÃO ESTIVER SALVO) VOCÊ JÁ TENHA CONVERSADO COM ELE.
 
 </p>
 
